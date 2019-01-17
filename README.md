@@ -4,7 +4,7 @@ Link to the cards & interpretation: (https://github.com/anonette/futures/blob/ma
 Oracle:   
 Concept: Denisa Kera    
 Collaborators: Yair Reshef (Shenkar College of Engineering), Nick Lauer (ASU), Stormy Nesbitt (ASU), Marketa Dolejšová (NUS)\
-Documentation: (https://futureparlor.tumblr.com)
+Documentation: (https://futureparlor.tumblr.com)   
 Video documenting the process: Parlor of Futures <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqnFcDg0cNo" target="_blank"><img src="http://img.youtube.com/vi/nqnFcDg0cNo/0.jpg" 
 alt="Parlor of Futures" width="240" height="180" border="10" /></a>
 
