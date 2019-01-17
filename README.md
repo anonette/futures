@@ -6,11 +6,11 @@ The connection between “reading,” predicting and making futures or between o
 
 The lab-parlor is **dedicated to Louise Michel, a 19th century anarchist and member of the Paris commune, who is one of the first speculative designers and futurists**. Through her alter-egos, Marie Violette Tranchot and Octave Obdurant, she described prototypes, which combine future speculations, physical models and machines with political activism. Her "Cosmographic Comparator" (Conducteur à Comparaisons Cosmographiques),  "speculative crown" and the "utopian umbrella" are tools, which integrate the possible with the actual, science with poetry, and serve to change the ways we experience and envision our future. Her anarchist and geeky heroine, Marie Violette, used these tools in the novel to start revolutions around the world described as *“snipping the umbilical of the globe”. The parlor-lab designs and performs similar “machines” for scenarios to “contaminate” our future with history and the history with hopes for the future because "history without utopia is dead in spirit and fact, but the future cannot live on dreams alone;  any science worthy of the name has no other purpose than the visionary improvement of life on earth".* Michel’s aka Violette’s “integration of the actual and the possible" is the goal of the workshops and readings that combine old iconography, dreams, and utopias with present DIY prototyping techniques to poetically explore science and technology controversies through aesthetic circuits and microfluidics, which define our present electronics, but also biotech dreams and visions.   
 
-The project "Parlour of Futures" was created for the [EMERGE 2017 festival]: https://emerge.asu.edu/2017/exhibits/parlor-of-futures/ at ASU in Arizona during 2016/2017. Part of the parlour designed by Marketa Dolejšová specializes on Food futures (http://materie.me/foodparlour)  
+The project "Parlour of Futures" was created for the EMERGE 2017 festival (https://emerge.asu.edu/2017/exhibits/parlor-of-futures/) at ASU in Arizona during 2016/2017. Part of the parlour designed by Marketa Dolejšová specializes on Food futures (http://materie.me/foodparlour)  
 
 Concept: Denisa Kera  
-Collaborators: Yair Reshef (Shenkar College of Engineering), Nick Lauer (ASU), Stormy Nesbitt (ASU), Marketa Dolejšová (NUS)
-[Documentation]: https://futureparlor.tumblr.com
+Collaborators: Yair Reshef (Shenkar College of Engineering), Nick Lauer (ASU), Stormy Nesbitt (ASU), Marketa Dolejšová (NUS)\
+Documentation: (https://futureparlor.tumblr.com)
 Video documenting the process: Parlor of Futures <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqnFcDg0cNo" target="_blank"><img src="http://img.youtube.com/vi/nqnFcDg0cNo/0.jpg" 
 alt="Parlor of Futures" width="240" height="180" border="10" /></a>
 
