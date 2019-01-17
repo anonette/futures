@@ -5,7 +5,8 @@ Oracle:
 Concept: Denisa Kera    
 Collaborators: Yair Reshef (Shenkar College of Engineering), Nick Lauer (ASU), Stormy Nesbitt (ASU), Marketa Dolejšová (NUS)\
 Documentation: (https://futureparlor.tumblr.com)   
-Video documenting the process: Parlor of Futures <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqnFcDg0cNo" target="_blank"><img src="http://img.youtube.com/vi/nqnFcDg0cNo/0.jpg" 
+Video documenting the process:   
+Parlor of Futures <a href="http://www.youtube.com/watch?feature=player_embedded&v=nqnFcDg0cNo" target="_blank"><img src="http://img.youtube.com/vi/nqnFcDg0cNo/0.jpg" 
 alt="Parlor of Futures" width="240" height="180" border="10" /></a>
 
 The **"Parlor of futures"** is a tarot cards parlor, but also a hacklab, which performs the **genealogy of the different ideas and practices related to reading (predicting, foresignt, envisioning) and making futures (through prototyping)**. The specially designed and prototyped 22 STS "cards" refer to the original themes from the 16th-century Tarot cards used in traditional divination techniques, but they feature present lab on a chip, IoT and other emergent technologies and issues. They use images, but also prototypes (made from open hardware prototypes, including two automated oracles) to support one-to-one “readings” on science and technology controversies or issues, including ICOs and blockchain speculations.     
