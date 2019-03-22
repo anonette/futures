@@ -1,7 +1,8 @@
 # Science, Technology and Society (STS) Tarot cards
 
 Link to the cards & interpretation: (https://github.com/anonette/futures/blob/master/cards_merged.pdf)  
-Oracle:   (https://github.com/anonette/SFIS)
+Oracle:   (https://github.com/anonette/SFIS); to play with here (https://anonette.net/SFIS/)
+
 Concept: Denisa Kera    
 Collaborators: Yair Reshef (Shenkar College of Engineering), Nick Lauer (ASU), Stormy Nesbitt (ASU), Marketa Dolejšová (NUS)\
 Documentation: (https://futureparlor.tumblr.com)   
